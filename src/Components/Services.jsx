@@ -27,7 +27,7 @@ const Services = () => {
                 width={800}
                 height={730}
                 src={service1}
-                alt="Smartest AI    "
+                alt="Smartest AI"
               />
             </div>
             <div className="relative z-1 max-w-[17rem] ml-auto">
